@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">lab2pmto</string>
+    <string name="hello_world_from_mainactivity">Hello World from MainActivity!</string>
+</resources>
